@@ -1,1 +1,4 @@
-
+CustomerID,Name,DocumentVerified
+C001,John Doe,True
+C002,Jane Smith,False
+C003,Emily Davis,True
