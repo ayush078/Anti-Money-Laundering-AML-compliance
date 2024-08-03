@@ -1,0 +1,3 @@
+TransactionID,CustomerID,Amount,Date,Suspicious
+2,C002,20000,2024-08-01,True
+4,C003,50000,2024-08-03,True
