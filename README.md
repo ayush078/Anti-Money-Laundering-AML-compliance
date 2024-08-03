@@ -5,7 +5,7 @@ This repository contains an example project for Anti-Money Laundering (AML) comp
 ## Project Overview
 
 This project demonstrates basic AML compliance techniques, including:
-- Monitoring transactions for suspicious activities
+- Monitoring transactions for suspicious activities 
 - Verifying customer KYC status
 - Generating reports of suspicious transactions
 
